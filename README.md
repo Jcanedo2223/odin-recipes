@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes My current project is to build a basic recipe website. By the end of the project I will have demonstrated abilities in being able to code the boilerplate, head, body, links to recipes, and lists.
